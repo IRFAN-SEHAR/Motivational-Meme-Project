@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+  }
+div{
+margin-left: 25%;
+width: 50%;
+margin-top: 5%;
+}
+img{
+border: 5px solid white;
+width: 100%;
+}
+h1{
+text-align: center;
+text-transform: uppercase;
+color: white;
+font-size: 100px;
+font-family: "Libre Baskerville", serif;
+font-weight: 400;
+font-style: normal;
+}
+p{
+text-align: center;
+color: white;
+font-size: 50px;
+text-transform: capitalize;
+font-family: "Libre Baskerville", serif;
+font-weight: 400;
+font-style: normal;
+}
